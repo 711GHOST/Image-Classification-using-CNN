@@ -12,8 +12,8 @@ The website has been hosted on Streamlit App where user needs to provide URL of 
 are present below for reference.
 
 ### Dog Classification
-![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
+![Alt text](image/dog.png?raw=true "Dogs")
 ### Fish Classification
-![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
+![Alt text](image/Fish.png?raw=true "Fish")
 
 Future scopes include classification of categories during live videos. This is helpful even for Object Recognition.
