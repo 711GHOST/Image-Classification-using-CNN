@@ -11,13 +11,9 @@ to be able for classifying 4 categories (Cats, Dogs, Fishes and Flowers).
 The website has been hosted on Streamlit App where user needs to provide URL of Image for Classification. Sample outputs
 are present below for reference.
 
-##
+### Dog Classification
 ![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
-##
-![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
-##
-![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
-##
+### Fish Classification
 ![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
 
 Future scopes include classification of categories during live videos. This is helpful even for Object Recognition.
