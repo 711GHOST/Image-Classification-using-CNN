@@ -3,5 +3,5 @@ Convolutional Neural Networks come under the subdomain of Machine Learning which
 Algorithms under Deep Learning process information the same way the human brain does, but obviously on a very small scale,
 since our brain is too complex (our brain has around 86 billion neurons).
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](image/Image-Classification.webp?raw=true "CNN-Network")
 
